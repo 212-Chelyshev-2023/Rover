@@ -1,0 +1,13 @@
+comand_file.txt
+Парметры по умолчанию: для камня x=10, y=7, z=3, r=1;
+                       для бревна x1=20, x2=25, y1=15, y2=17, r=1;
+                       для холма x=14, y=10, z=5, sigmax=3, 
+                       sigmay=1;
+Команды из командного файла: Generate marsh sizex sizey
+                             Generate stone
+                             Generate stone x y z R
+                             Generate log
+                             Generate log x1 y1 x2 y2 R
+                             Generate hill
+                             Generate hill x y z sigmax sigmay a
+                             Output file

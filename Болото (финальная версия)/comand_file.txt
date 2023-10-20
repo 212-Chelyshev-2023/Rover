@@ -1,0 +1,8 @@
+Generate marsh 50 50
+Generate log 15 12 25 2.4 1.01
+Generate stone 23 21 2 0.5
+Generate hill 10 14 23 1 1
+Generate hill
+Generate stone
+Generate log
+Output file
